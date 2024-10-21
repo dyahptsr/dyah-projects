@@ -1,0 +1,16 @@
+p{
+    font-size: 20px;
+}
+
+label {
+    font-size: 20px;
+    color: #f33757;
+}
+
+input {
+    padding: 8px;
+}
+
+button {
+    padding: 8px;
+}
